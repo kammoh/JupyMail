@@ -1,0 +1,35 @@
+Dear ${FIRST_NAME},
+
+I am very excited to hear that you have been admitted to George Mason
+University and are interested in pursuing a BS degree in Computer Engineering.
+Our department has many outstanding faculty who are working on some amazing
+research projects and, at the same time, are winning the highest awards that
+the University and professional organizations have to offer for excellence in
+teaching.
+
+Whether you want to get involved in projects that involve swarming blimps,
+robotic fish, machine learning, hardware security, 5G networks, satellite
+communications, the power grid, or robotics, Electrical and Computer
+Engineering is the place to be at Mason. I have attached a copy of the Fall
+2019 ECE Newsletter that you may enjoy reading.
+
+We all know and appreciate what a difficult and important decision it is to
+select the right University for you to earn your Bachelor's degree. Wherever
+you decide to go, it will be the right decision if you take advantage of
+everything the University has to offer. And we have a lot to offer at Mason.
+
+We are here to help you with your decision, and if you matriculate to Mason,
+we have outstanding advisors who will help advise you and guide you through
+the program. If you have any questions, please free to send an email to 
+mailto:ece@gmu.edu. If you would like to talk to someone in
+person, let us know and we will give you a phone call. Please fee free to
+contact me directly if you wish.
+
+We look forward to welcoming you to ECE at Mason in the Fall.
+
+Sincerely,  
+  
+Monson H. Hayes  
+Professor and Chair
+Department of Electrical and Computer Engineering
+
